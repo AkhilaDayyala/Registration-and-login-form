@@ -1,0 +1,30 @@
+.login{
+    color: palevioletred;
+    text-align: center;
+}
+label{
+    margin-left: 600px;
+    
+}
+input{
+    height: 40px;
+    width: 300px;
+}
+input:hover{
+    color: palevioletred;
+    border: 1px solid greenyellow;
+    
+}
+.btn{
+    margin-left: 670px; 
+    background-color: greenyellow;
+    border: 1px solid palevioletred;
+    height: 50px;
+    width: 200px;
+    color: palevioletred;
+}
+.btn:hover{
+    color:greenyellow;
+    background-color:palevioletred ;
+    border: 1px solid greenyellow;
+}
